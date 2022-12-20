@@ -30,6 +30,9 @@
 ### Architecture
 * https://github.com/yum-install-brains/postgresql-spot/blob/master/architecture/architecture.md
 
+## K8S Operator
+* https://access.crunchydata.com/documentation/postgres-operator/4.4.0/installation/postgres-operator/
+
 ### Sharding
 * https://habr.com/ru/company/ozontech/blog/705912/
 
