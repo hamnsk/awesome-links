@@ -41,6 +41,21 @@
 * https://bozaro.ru/2016/11/19/mysql-broken/
 
 ---
+# K8S
+## Operators
+* https://operatorhub.io/
+---
+
+# Monitoring
+## Prometheus HUB
+* https://exporterhub.io/
+## Exporters
+* https://prometheus.io/docs/instrumenting/exporters/
+## Alerts
+* https://awesome-prometheus-alerts.grep.to/rules.html
+
+
+---
 # Internet
 ## Monitoring
 * https://grafana.com/grafana/dashboards/12004-speedtest/
