@@ -81,3 +81,8 @@
 ---
 # Microservices
 * https://habr.com/ru/company/maximatelecom/blog/706532/
+
+---
+# Online Tools
+## QRCode generators
+* https://qrcode.tec-it.com/ru/Url
