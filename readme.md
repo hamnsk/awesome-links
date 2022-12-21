@@ -18,6 +18,18 @@
 
 ### Automation
 * https://github.com/veksh/ansible-esxi
+---
+# Development
+## GO
+### Books
+* [Язык программирования Go](https://clck.ru/336XRW)
+* [Golang для профи](https://clck.ru/336XRD)
+* [Облачный GO](https://clck.ru/336XRt)
+* [Go: идиомы и паттерны проектирования](https://clck.ru/336XS7)
+* [gRPC: запуск и эксплуатация облачных приложений](https://clck.ru/336XSH)
+* [BPF для мониторинга linux](https://clck.ru/336XST)
+* [Black Hat Go: Программирование для хакеров и пентестеров](https://clck.ru/336XSc)
+
 
 ---
 # pfSense/OPNsense
