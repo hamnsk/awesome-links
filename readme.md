@@ -1,3 +1,8 @@
+# Awesomie Links
+
+### QR Code with link to this repo
+<img src="./assets/qr-code.png" alt="QRCODE Repo Link" width="200"/>
+
 # ESXI
 ## Monitoring
 ### Dashboards
