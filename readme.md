@@ -35,7 +35,19 @@
 * [BPF для мониторинга linux](https://clck.ru/336XST)
 * [Black Hat Go: Программирование для хакеров и пентестеров](https://clck.ru/336XSc)
 
+# System Design
+## Cap Theory
+* [CAP двенадцать лет спустя: как изменились «правила»](https://clck.ru/337URr)
 
+# Operating Systems
+## Linux
+### Books
+
+* [Ядро Linux. Описание процесса разработки](https://clck.ru/337Wd4)
+* [Linux API. Исчерпывающее руководство](https://clck.ru/337WfH)
+* [Unix и Linux: руководство системного администратора](https://clck.ru/337WgD)
+* [Внутреннее устройство Linux](https://clck.ru/337Wgz)
+* [Bash. Карманный справочник системного администратора](https://clck.ru/337Whc)
 ---
 # pfSense/OPNsense
 ### Logging
