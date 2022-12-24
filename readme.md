@@ -25,6 +25,9 @@
 * https://github.com/veksh/ansible-esxi
 ---
 # Development
+## IDE
+### Jetbrains Plug-ins
+* [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation)
 ## GO
 ### Books
 * [Язык программирования Go](https://clck.ru/336XRW)
