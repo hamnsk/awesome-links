@@ -38,6 +38,9 @@
 * [BPF для мониторинга linux](https://clck.ru/336XST)
 * [Black Hat Go: Программирование для хакеров и пентестеров](https://clck.ru/336XSc)
 
+### Performance
+* https://go.dev/doc/diagnostics
+
 # System Design
 ## Cap Theory
 * [CAP двенадцать лет спустя: как изменились «правила»](https://clck.ru/337URr)
@@ -62,6 +65,10 @@
 ### Architecture
 * https://github.com/yum-install-brains/postgresql-spot/blob/master/architecture/architecture.md
 
+## Tablespaces
+* https://sysadminium.ru/tablichnye_prostranstva_v_postgresql/
+* https://wiki.dieg.info/tablichnye_prostranstva_postgresql
+
 ## K8S Operator
 * https://access.crunchydata.com/documentation/postgres-operator/4.4.0/installation/postgres-operator/
 
@@ -79,10 +86,22 @@
 ---
 
 # Monitoring
+## Grafana Dashboards
+* https://grafana.com/grafana/dashboards/12004-speedtest/
+* https://grafana.com/grafana/dashboards/1860-node-exporter-full/
 ## Prometheus HUB
 * https://exporterhub.io/
 ## Exporters
 * https://prometheus.io/docs/instrumenting/exporters/
+* https://github.com/mdlayher/apcupsd_exporter
+* https://github.com/bluecmd/fortigate_exporter
+* https://github.com/ofesseler/gluster_exporter/blob/master/main.go
+* https://github.com/RichiH/openweathermap_exporter
+* https://github.com/foomo/pagespeed_exporter
+* https://github.com/nlamirault/speedtest_exporter
+* https://github.com/bakins/php-fpm-exporter
+* https://github.com/MiguelNdeCarvalho/speedtest-exporter
+* 
 ## Alerts
 * https://awesome-prometheus-alerts.grep.to/rules.html
 
@@ -106,3 +125,7 @@
 # Online Tools
 ## QRCode generators
 * https://qrcode.tec-it.com/ru/Url
+
+---
+# Discord
+* https://support.discord.com/hc/en-us/articles/214836687-Role-Management-101
