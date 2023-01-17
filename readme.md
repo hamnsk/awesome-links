@@ -111,6 +111,12 @@
 ## Grafana Loki
 * [Video About Loki in WarGaming] (https://www.youtube.com/watch?v=vkdNY8QaCug)
 
+## ElasticSearch
+### Beats
+* https://fluentbit.io/
+* https://www.fluentd.org/
+* https://vector.dev/
+* https://github.com/ozontech/file.d
 ---
 # Internet
 ## Monitoring
