@@ -107,6 +107,9 @@
 ## Alerts
 * https://awesome-prometheus-alerts.grep.to/rules.html
 
+# Logging
+## Grafana Loki
+* [Video About Loki in WarGaming] (https://www.youtube.com/watch?v=vkdNY8QaCug)
 
 ---
 # Internet
