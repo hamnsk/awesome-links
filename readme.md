@@ -140,3 +140,6 @@
 ---
 # Discord
 * https://support.discord.com/hc/en-us/articles/214836687-Role-Management-101
+
+# Motivation videos
+* https://www.youtube.com/watch?v=aXLN6Vl5L7A
