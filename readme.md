@@ -47,6 +47,8 @@
 
 # Operating Systems
 ## Linux
+### Links
+* [LVM Resize](https://computingforgeeks.com/extending-root-filesystem-using-lvm-linux/)
 ### Books
 
 * [Ядро Linux. Описание процесса разработки](https://clck.ru/337Wd4)
