@@ -27,7 +27,10 @@
 
 ### Go Examples
 * [RabbitMQ](https://github.com/Pungyeon/go-rabbitmq-example)
+* [ToDo Microservice](https://github.com/MarioCarrion/todo-api-microservice-example/tree/b886f4346851c860728ec7924d8b3196139af11e)
 
+### Go Tips And Tricks
+* [Remove duplicates in slice](https://stackoverflow.com/questions/66643946/how-to-remove-duplicates-strings-or-int-from-slice-in-go)
 
 ### Api Reference
 * https://developer.vmware.com/apis/704/vsphere/api_versions_all_index.html#dataObjects
