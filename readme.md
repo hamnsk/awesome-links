@@ -15,8 +15,19 @@
 * https://github.com/molu8bits/vmware-esxi-prometheus-grafana
 
 ## Development
+### Awesome GO
+* https://github.com/avelino/awesome-go
 ### Go Libraries
-* https://github.com/vmware/govmomi/tree/master/examples
+* [VMWare](https://github.com/vmware/govmomi/tree/master/examples)
+* [RabbitMQ](https://github.com/wagslane/go-rabbitmq)
+* [RabbitMQ Rabbus lib](https://github.com/rafaeljesus/rabbus)
+
+### Go Manuals
+* [Work with RabbitMQ](https://blog.boot.dev/golang/connecting-to-rabbitmq-in-golang-easy/)
+
+### Go Examples
+* [RabbitMQ](https://github.com/Pungyeon/go-rabbitmq-example)
+
 
 ### Api Reference
 * https://developer.vmware.com/apis/704/vsphere/api_versions_all_index.html#dataObjects
@@ -44,6 +55,10 @@
 # System Design
 ## Cap Theory
 * [CAP двенадцать лет спустя: как изменились «правила»](https://clck.ru/337URr)
+
+## Event BUS
+### RabbitMQ
+* [RabbitMQ Cli util](https://github.com/jandelgado/rabtap)
 
 # Operating Systems
 ## Linux
