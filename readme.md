@@ -21,13 +21,17 @@
 * [VMWare](https://github.com/vmware/govmomi/tree/master/examples)
 * [RabbitMQ](https://github.com/wagslane/go-rabbitmq)
 * [RabbitMQ Rabbus lib](https://github.com/rafaeljesus/rabbus)
+* [Postgres MOCK](https://github.com/pashagolub/pgxmock)
 
 ### Go Manuals
 * [Work with RabbitMQ](https://blog.boot.dev/golang/connecting-to-rabbitmq-in-golang-easy/)
 
 ### Go Examples
+* [Example by tags](https://golangexample.com/tag/redis/)
 * [RabbitMQ](https://github.com/Pungyeon/go-rabbitmq-example)
 * [ToDo Microservice](https://github.com/MarioCarrion/todo-api-microservice-example/tree/b886f4346851c860728ec7924d8b3196139af11e)
+* [User Microservice](https://github.com/KadirSanel/go-microservice-example)
+* [URL Shortener](https://github.com/ErfiDev/url_shortener)
 
 ### Go Tips And Tricks
 * [Remove duplicates in slice](https://stackoverflow.com/questions/66643946/how-to-remove-duplicates-strings-or-int-from-slice-in-go)
