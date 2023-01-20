@@ -63,14 +63,23 @@
 ## Cap Theory
 * [CAP двенадцать лет спустя: как изменились «правила»](https://clck.ru/337URr)
 
+---
 ## Event BUS
 ### RabbitMQ
 * [RabbitMQ Cli util](https://github.com/jandelgado/rabtap)
 
+---
+# Security
+## Vault
+### Tools
+* [Import/Export Secrets](https://github.com/jonasvinther/medusa)
+
+---
 # Operating Systems
 ## Linux
 ### Links
 * [LVM Resize](https://computingforgeeks.com/extending-root-filesystem-using-lvm-linux/)
+
 ### Books
 
 * [Ядро Linux. Описание процесса разработки](https://clck.ru/337Wd4)
