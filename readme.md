@@ -116,6 +116,8 @@
 # K8S
 ## Operators
 * https://operatorhub.io/
+## Containers
+* [Pause Containers](https://blog.devgenius.io/k8s-pause-container-f7abd1e9b488)
 ---
 
 # Monitoring
