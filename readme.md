@@ -163,7 +163,7 @@
 * [Паттерны Kubernetes](https://market.yandex.ru/product--ibram-bildzhin-patterny-kubernetes/1781862793?sku=666289130&cpa=1)
 * [Kubernetes: лучшие практики](https://www.ozon.ru/product/kubernetes-luchshie-praktiki-raskroy-potentsial-glavnogo-instrumenta-v-otrasli-pdf-epub-412260355/?asb=MPnBxzssKqwQLd1HEKh1l6f0tMTJ81zaRiGsdZu6Ig0%253D&asb2=29sSJX-Ge8ifDtKiqYLYRrFAdt-XbcVoX1E0AVd8YURirtQNAlMdxc7s3wbOoTow&avtc=1&avte=2&avts=1674844954&keywords=kubernetes&sh=iWFnmwDZIg)
 ### Automation
-* [Ansible] (https://www.ozon.ru/product/zapuskaem-ansible-hoshteyn-lorin-mozer-rene-217051387/?sh=iWFnm4HFKg)
+* [Ansible](https://www.ozon.ru/product/zapuskaem-ansible-hoshteyn-lorin-mozer-rene-217051387/?sh=iWFnm4HFKg)
 
 ---
 # Internet
