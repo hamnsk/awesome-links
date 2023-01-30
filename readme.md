@@ -32,6 +32,7 @@
 * [ToDo Microservice](https://github.com/MarioCarrion/todo-api-microservice-example/tree/b886f4346851c860728ec7924d8b3196139af11e)
 * [User Microservice](https://github.com/KadirSanel/go-microservice-example)
 * [URL Shortener](https://github.com/ErfiDev/url_shortener)
+* [Vault Token Renewal](https://github.com/hashicorp/vault-examples/blob/main/examples/token-renewal/go/example.go)
 
 ### Go Tips And Tricks
 * [Remove duplicates in slice](https://stackoverflow.com/questions/66643946/how-to-remove-duplicates-strings-or-int-from-slice-in-go)
