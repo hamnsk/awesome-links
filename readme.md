@@ -35,7 +35,7 @@
 
 ### Go Tips And Tricks
 * [Remove duplicates in slice](https://stackoverflow.com/questions/66643946/how-to-remove-duplicates-strings-or-int-from-slice-in-go)
-
+* [Reflect: Set Field](https://stackoverflow.com/questions/6395076/using-reflect-how-do-you-set-the-value-of-a-struct-field)
 ### Api Reference
 * https://developer.vmware.com/apis/704/vsphere/api_versions_all_index.html#dataObjects
 
@@ -59,6 +59,13 @@
 ### Performance
 * https://go.dev/doc/diagnostics
 
+### RabbitMQ
+### Manuals
+* [Using a High-Level RabbitMQ](https://blog.boot.dev/golang/connecting-to-rabbitmq-in-golang-easy/)
+* [Using RabbitMQ with Golang](https://github.com/Pungyeon/go-rabbitmq-example)
+#### Libs
+* [go-rabbitmq](https://github.com/wagslane/go-rabbitmq)
+* [go-mq](https://github.com/cheshir/go-mq)
 # System Design
 ## Cap Theory
 * [CAP двенадцать лет спустя: как изменились «правила»](https://clck.ru/337URr)
@@ -117,6 +124,10 @@
 
 ---
 # K8S
+## Tips and Tricks
+* [CRI-O Alma Linux](https://computingforgeeks.com/install-cri-o-container-runtime-on-rocky-linux-almalinux/)
+## Networking
+* [Calico](https://github.com/projectcalico/calico/blob/master/manifests/calico.yaml)
 ## Operators
 * https://operatorhub.io/
 ## Containers
@@ -142,7 +153,11 @@
 * 
 ## Alerts
 * https://awesome-prometheus-alerts.grep.to/rules.html
+## Tips and Tricks
+* [Consul SD](https://backbeat.tech/blog/configuring-prometheus-targets-with-consul)
+* [Consul SD](https://medium.com/trendyol-tech/consul-prometheus-monitoring-service-discovery-7190bae50516)
 
+---
 # Logging
 ## Grafana Loki
 * [Video About Loki in WarGaming] (https://www.youtube.com/watch?v=vkdNY8QaCug)
