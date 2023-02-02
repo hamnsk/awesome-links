@@ -25,6 +25,10 @@
 
 ### Go Manuals
 * [Work with RabbitMQ](https://blog.boot.dev/golang/connecting-to-rabbitmq-in-golang-easy/)
+* [Golang: Работы с HTTP запросами](https://dev-gang.ru/article/golang-making-http-requests-2/)
+* [Configuring the Go HTTP client](https://blog.logrocket.com/configuring-the-go-http-client/)
+* [How To Make HTTP Requests in Go](https://www.digitalocean.com/community/tutorials/how-to-make-http-requests-in-go)
+* [Chapter 35: Build an HTTP Client](https://www.practical-go-lessons.com/chap-35-build-an-http-client)
 
 ### Go Examples
 * [Example by tags](https://golangexample.com/tag/redis/)
