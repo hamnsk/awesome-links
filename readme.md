@@ -90,6 +90,9 @@
 # Operating Systems
 ## MacOS
 * [VPN Routing Tips](https://gist.github.com/taldanzig/4628573)
+* [MacOS on VMWare](https://github.com/dortania/macOS-VMware-Guide)
+* [VMWare Tools](https://drive.google.com/drive/folders/1vZpZ6LwTmFV4j1bqZTF7g8DcEqH-W5Zf)
+* [DMG  to ISO](https://www.wikigain.com/create-macos-big-sur-iso-image/)
 
 ## Linux
 ### Links
