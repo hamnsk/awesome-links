@@ -125,6 +125,8 @@
 
 ### Sharding
 * https://habr.com/ru/company/ozontech/blog/705912/
+* https://highload.guide/blog/scaling-database.html
+* https://habr.com/ru/companies/oleg-bunin/articles/309330/
 
 ## MySQL
 ### Documents
@@ -140,6 +142,8 @@
 * https://operatorhub.io/
 ## Containers
 * [Pause Containers](https://blog.devgenius.io/k8s-pause-container-f7abd1e9b488)
+## Docs
+* [Docs with samples(RUS)](https://github.com/aak74/kubernetes-for-beginners)
 ---
 
 # Monitoring
