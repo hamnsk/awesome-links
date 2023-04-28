@@ -144,6 +144,7 @@
 * [Pause Containers](https://blog.devgenius.io/k8s-pause-container-f7abd1e9b488)
 ## Docs
 * [Docs with samples(RUS)](https://github.com/aak74/kubernetes-for-beginners)
+* [K8S for Begginners](https://github.com/aak74/kubernetes-for-beginners)
 ---
 
 # Monitoring
