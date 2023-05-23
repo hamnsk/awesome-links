@@ -181,6 +181,9 @@
 * https://www.fluentd.org/
 * https://vector.dev/
 * https://github.com/ozontech/file.d
+
+### Logstash
+* [Elasticsearch output plugin](https://github.com/logstash-plugins/logstash-output-elasticsearch/blob/main/docs/index.asciidoc)
 ---
 
 # DevOps
