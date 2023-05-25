@@ -146,6 +146,9 @@
 ## Docs
 * [Docs with samples(RUS)](https://github.com/aak74/kubernetes-for-beginners)
 ---
+# Docker
+## Swarm
+* [How does Docker Swarm implement volume sharing?](https://stackoverflow.com/questions/47756029/how-does-docker-swarm-implement-volume-sharing)
 
 # Monitoring
 ## Grafana Dashboards
