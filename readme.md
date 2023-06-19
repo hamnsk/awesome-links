@@ -30,6 +30,10 @@
 * [How To Make HTTP Requests in Go](https://www.digitalocean.com/community/tutorials/how-to-make-http-requests-in-go)
 * [Chapter 35: Build an HTTP Client](https://www.practical-go-lessons.com/chap-35-build-an-http-client)
 * [Statically compiling Go programs](https://www.arp242.net/static-go.html)
+* [Golang Dynamic Logging for Microservices](https://dev.to/rusty_sys_dev/golang-dynamic-logging-3p7k)
+* [How to dynamically change log level in uber/zap logger](https://stackoverflow.com/questions/58664093/how-to-dynamically-change-log-level-in-uber-zap-logger)
+* [Парсинг флагов и аргументов в языке Go](https://eax.me/golang-pflag-cobra/)
+* [Парсинг конфигов в Go с помощью Viper](https://eax.me/golang-viper/)
 
 ### Go Examples
 * [Example by tags](https://golangexample.com/tag/redis/)
@@ -211,6 +215,7 @@
 # Cheat sheets
 * https://cheat.sh/
 * [Markdown Manual RUS](https://gist.github.com/Jekins/2bf2d0638163f1294637)
+* [bash script to export all key=value pairs in a file as environment variables](https://gist.github.com/aelindeman/ea919e05cc1aa5d5c6159f5fa20b7412)
 
 ---
 # Microservices
