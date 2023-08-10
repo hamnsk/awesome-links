@@ -67,6 +67,7 @@
 * [Black Hat Go: Программирование для хакеров и пентестеров](https://clck.ru/336XSc)
 ### Tools
 * [Feature Flag Backend](https://github.com/flipt-io/flipt)
+* [GitLab Feature Flag](https://docs.gitlab.com/ee/operations/feature_flags.html)
 ### Performance
 * https://go.dev/doc/diagnostics
 
