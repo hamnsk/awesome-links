@@ -65,6 +65,7 @@
 * [gRPC: запуск и эксплуатация облачных приложений](https://clck.ru/336XSH)
 * [BPF для мониторинга linux](https://clck.ru/336XST)
 * [Black Hat Go: Программирование для хакеров и пентестеров](https://clck.ru/336XSc)
+* [Разработка WEB приложений](https://github.com/astaxie/build-web-application-with-golang/tree/master)
 ### Tools
 * [Feature Flag Backend](https://github.com/flipt-io/flipt)
 * [GitLab Feature Flag](https://docs.gitlab.com/ee/operations/feature_flags.html)
