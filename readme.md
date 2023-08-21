@@ -45,6 +45,7 @@
 * [User Microservice](https://github.com/KadirSanel/go-microservice-example)
 * [URL Shortener](https://github.com/ErfiDev/url_shortener)
 * [Vault Token Renewal](https://github.com/hashicorp/vault-examples/blob/main/examples/token-renewal/go/example.go)
+* [Go SOAP](https://github.com/bigwhite/experiments/tree/master/go-soap)
 
 ### Go SOAP Services
 * [SOAP is dead - long live SOAP](https://github.com/foomo/soap/blob/master/README.md)
