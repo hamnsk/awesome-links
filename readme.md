@@ -17,11 +17,13 @@
 ## Development
 ### Awesome GO
 * https://github.com/avelino/awesome-go
+* [Awesome GO](https://awesome-go.com/)
 ### Go Libraries
 * [VMWare](https://github.com/vmware/govmomi/tree/master/examples)
 * [RabbitMQ](https://github.com/wagslane/go-rabbitmq)
 * [RabbitMQ Rabbus lib](https://github.com/rafaeljesus/rabbus)
 * [Postgres MOCK](https://github.com/pashagolub/pgxmock)
+* [API simulations for development and testing](https://github.com/SpectoLabs/hoverfly)
 
 ### Go Manuals
 * [Work with RabbitMQ](https://blog.boot.dev/golang/connecting-to-rabbitmq-in-golang-easy/)
