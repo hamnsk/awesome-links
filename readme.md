@@ -43,6 +43,12 @@
 * [URL Shortener](https://github.com/ErfiDev/url_shortener)
 * [Vault Token Renewal](https://github.com/hashicorp/vault-examples/blob/main/examples/token-renewal/go/example.go)
 
+### Go SOAP Services
+* [SOAP is dead - long live SOAP](https://github.com/foomo/soap/blob/master/README.md)
+* [Golang SOAP examples](https://github.com/achiku/sample-golang-soap-xml/blob/master/README.md)
+* [WSDL/SOAP support on Go?](https://stackoverflow.com/questions/11767642/wsdl-soap-support-on-go)
+* [Calling a SOAP service in Go](https://fale.io/blog/2018/12/03/calling-a-soap-service-in-go)
+
 ### Go Tips And Tricks
 * [Remove duplicates in slice](https://stackoverflow.com/questions/66643946/how-to-remove-duplicates-strings-or-int-from-slice-in-go)
 * [Reflect: Set Field](https://stackoverflow.com/questions/6395076/using-reflect-how-do-you-set-the-value-of-a-struct-field)
