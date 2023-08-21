@@ -36,6 +36,7 @@
 * [How to dynamically change log level in uber/zap logger](https://stackoverflow.com/questions/58664093/how-to-dynamically-change-log-level-in-uber-zap-logger)
 * [Парсинг флагов и аргументов в языке Go](https://eax.me/golang-pflag-cobra/)
 * [Парсинг конфигов в Go с помощью Viper](https://eax.me/golang-viper/)
+* [Go and SOAP](https://tonybai.com/2019/01/08/go-and-soap/)
 
 ### Go Examples
 * [Example by tags](https://golangexample.com/tag/redis/)
