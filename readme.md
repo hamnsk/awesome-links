@@ -46,6 +46,7 @@
 * [URL Shortener](https://github.com/ErfiDev/url_shortener)
 * [Vault Token Renewal](https://github.com/hashicorp/vault-examples/blob/main/examples/token-renewal/go/example.go)
 * [Go SOAP](https://github.com/bigwhite/experiments/tree/master/go-soap)
+* [Go Badger Key-Value] (https://eax.me/golang-badger/)
 
 ### Go SOAP Services
 * [SOAP is dead - long live SOAP](https://github.com/foomo/soap/blob/master/README.md)
@@ -115,7 +116,7 @@
 ## Linux
 ### Links
 * [LVM Resize](https://computingforgeeks.com/extending-root-filesystem-using-lvm-linux/)
-
+* [Linux Checkpoint](https://github.com/pedroeml/checkpoint-mobile-access-vpn)
 ### Books
 
 * [Ядро Linux. Описание процесса разработки](https://clck.ru/337Wd4)
@@ -148,7 +149,11 @@
 
 ## MySQL
 ### Documents
-* https://bozaro.ru/2016/11/19/mysql-broken/
+* [Mysql is Broken](https://bozaro.ru/2016/11/19/mysql-broken/)
+
+
+## Redis
+* [Redis profiling](https://github.com/city-mobil/insecticide)
 
 ---
 # K8S
