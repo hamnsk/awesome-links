@@ -132,6 +132,12 @@
 ---
 # Databases
 ## PostgreSQL
+## Replication Troubleshooting's
+* [Replication slots в PostgreSQL](https://habr.com/ru/articles/245847/)
+* [Verify replication is functioning](https://www.repmgr.org/docs/4.2/quickstart-verify-replication.html)
+* [Отладка и устранение проблем в PostgreSQL Streaming Replication](https://habr.com/ru/companies/oleg-bunin/articles/414111/)
+* [Очистка логов транзакций postgresql](https://www.tune-it.ru/web/nelper/home/-/blogs/21540)
+
 ### Architecture
 * https://github.com/yum-install-brains/postgresql-spot/blob/master/architecture/architecture.md
 
