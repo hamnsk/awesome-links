@@ -117,6 +117,8 @@
 ### Links
 * [LVM Resize](https://computingforgeeks.com/extending-root-filesystem-using-lvm-linux/)
 * [Linux Checkpoint](https://github.com/pedroeml/checkpoint-mobile-access-vpn)
+* [В защиту swap'а](https://habr.com/ru/companies/flant/articles/348324/)
+* [Memory pressure](https://www.kernel.org/doc/html/v5.5/admin-guide/cgroup-v1/memory.html?highlight=swap)
 ### Books
 
 * [Ядро Linux. Описание процесса разработки](https://clck.ru/337Wd4)
