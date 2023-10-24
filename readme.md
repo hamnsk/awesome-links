@@ -112,6 +112,7 @@
 * [MacOS on VMWare](https://github.com/dortania/macOS-VMware-Guide)
 * [VMWare Tools](https://drive.google.com/drive/folders/1vZpZ6LwTmFV4j1bqZTF7g8DcEqH-W5Zf)
 * [DMG  to ISO](https://www.wikigain.com/create-macos-big-sur-iso-image/)
+* [Connecting to a WireGuard VPN from macOS](https://help.keenetic.com/hc/en-us/articles/360010756119-Connecting-to-a-WireGuard-VPN-from-macOS)
 
 ## Linux
 ### Links
@@ -119,6 +120,7 @@
 * [Linux Checkpoint](https://github.com/pedroeml/checkpoint-mobile-access-vpn)
 * [В защиту swap'а](https://habr.com/ru/companies/flant/articles/348324/)
 * [Memory pressure](https://www.kernel.org/doc/html/v5.5/admin-guide/cgroup-v1/memory.html?highlight=swap)
+* [Как настроить прокси-сервер Dante](https://www.digitalocean.com/community/tutorials/how-to-set-up-dante-proxy-on-ubuntu-20-04)
 ### Books
 
 * [Ядро Linux. Описание процесса разработки](https://clck.ru/337Wd4)
