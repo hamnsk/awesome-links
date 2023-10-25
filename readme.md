@@ -13,6 +13,7 @@
 
 ### Documents
 * https://github.com/molu8bits/vmware-esxi-prometheus-grafana
+* [Packer OS Descriptors](https://gist.github.com/dcode/1003a83388d770b978f723e37ce09e42)
 
 ## Development
 ### Awesome GO
